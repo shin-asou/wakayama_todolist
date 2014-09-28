@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  start_at: 2014-08-10 15:48:12
+  end_at: 2014-08-10 15:48:12
+  deadline_at: 2014-08-10 15:48:12
+  status: 1
+  detail: MyText
+  priority: 1
+  type: 1
+  user_id: 1
+
+two:
+  title: MyString
+  start_at: 2014-08-10 15:48:12
+  end_at: 2014-08-10 15:48:12
+  deadline_at: 2014-08-10 15:48:12
+  status: 1
+  detail: MyText
+  priority: 1
+  type: 1
+  user_id: 1
